@@ -13,5 +13,5 @@ Simple recycling game where you sort the trashes into bins.. And get ranked afte
 
 * TS 0 Initial Commit - Working Game
 * TS 1 Refactored structure so we can use the SEngine as library with SFML integrated to it.
-
+* TS 2 Added images to readme.
 
