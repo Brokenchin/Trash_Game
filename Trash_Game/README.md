@@ -1,6 +1,9 @@
 # Trash Sorter
 
-Simple recycling game where you sort the trashes into bins.. And get ranked afterwards
+Simple recycling game where you sort the trashes into bins.. And get ranked afterwards. 
+
+* **Important!** This is only an example and it is missing the SEngine game engine used to build it.
+
 ---
 ![image](https://user-images.githubusercontent.com/29341722/143003636-c03512c5-d05b-4885-a426-12ee932de8c6.png)
 
